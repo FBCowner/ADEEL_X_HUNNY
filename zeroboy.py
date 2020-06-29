@@ -49,17 +49,16 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__(~)    •||•ADEEL_X_HUNNY -OFFICAL------•◈•
+|__\~~) •||•ADE - WATTO---------------•◈•
+|__(-----\  •◈•----FIGHTER-BOYS-CLUB------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92mHUNNY_X_ADEEL
+\033[1;96mFacebook  \033[1;93m: \033[1; ADEEL AFZAL WATTO
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/FBCowner/zero
 \033[1;91m======================================="""
 
 def tik():
@@ -80,15 +79,14 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92mADEEL_X_HUNNY
+\033[1;96mFacebook  \033[1;93m: \033[1;92m HUNNY GUJJAR
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/FBCowner/zero
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "adeel"
+CorrectPassword = "hunny"
 
 loop = 'true'
 while (loop == 'true'):
@@ -414,6 +412,7 @@ def pilih_super():
 	print("\033[1;96m[+] \033[1;92mCP File Has Been Saved \033[1;91m: \033[1;97mout/checkpoint.txt")
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
+#ITXXXX_TH3_GAME_BABY
 
 if __name__ == '__main__':
 	login()
